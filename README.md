@@ -7,7 +7,7 @@ Code is written by java, using socket and thread.
 
 [HwServer.java](https://github.com/lHealMel/Quizgame/blob/main/HwServer.java) -> Server code
 
-[ClientHandler.java](https://github.com/lHealMel/Quizgame/blob/main/ClientHandler.java) -> Client handler that used in Server
+[ClientHandler.java](https://github.com/lHealMel/Quizgame/blob/main/ClientHandler.java) -> Client handler that used in Server. In this code, manipulate problems and answers.
 
 [ServerData.java](https://github.com/lHealMel/Quizgame/blob/main/ServerData.java) -> Get the server data from server_info.dat file
 
